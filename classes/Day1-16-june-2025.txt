@@ -40,6 +40,62 @@ pm.findbypricerange(1000,60000)
 
 get the usersinputs while adding a product
 
+www.kaushalya.tech
+click git
+click repositories
+https://github.com/raghuprasadks/fdp-genai-ait-june2025
+click programs
+python
+1-product.py
+raw
+https://www.w3schools.com/python/default.asp
+
+Generative AI
+Generation of text
+Generation of image,audio,video
+Large Language Model (LLM)
+Deep Learning
+Neural Network - biological neuron
+ANN - Artificial Neural Network
+CNN - Convolutional Neural Network
+RNN - Recurrent Neural Network
+Input layer
+Hidden layer
+Output layer
+Machine Learning
+Supervised - labelled data
+Regression - Linear regression
+y=mx+c
+independent variable, dependent variables
+feature set
+Decision regression
+Classification - Logistic regression
+training - 70%
+model - algorithm
+testing
+Un-Supervised
+Reinforcement machine learning
+AI - Machine mimic cognitive function
+of humanbeing 
+chatgtp
+i want to conduct 6 days of faculty development training on generative ai
+
+Neural Network
+
+kaushalya.tech
+git
+fdp-genai-ait-june2025
+programs
+neuralnetwork
+1-ann-keras-homepriceprediction.py
+
+
+
+
+
+
+
+
 
 
 

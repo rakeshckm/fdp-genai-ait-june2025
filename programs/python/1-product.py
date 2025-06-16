@@ -10,10 +10,17 @@ class Product:
         print(f"Name: {self.name}")
         print(f"Supplier: {self.supplier}")
         print(f"Price: {self.price}")
+    def __str__(self):
+        return (f"Code: {self.code}\n"
+                f"Name: {self.name}\n"
+                f"Supplier: {self.supplier}\n"
+                f"Price: {self.price}")
+
 
 # Example usage:
 product1 = Product("P001", "Laptop", "ABC Corp", 50000)
 product1.info()
+print("product 1", product1)
 
 product2 = Product("P002", "Mobile", "Samsung", 60000)
 product2.info()
