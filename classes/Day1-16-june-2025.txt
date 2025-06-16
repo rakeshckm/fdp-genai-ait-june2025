@@ -1,0 +1,49 @@
+GenAI
+Pre-requisites
+
+1. python
+2. visual studio code
+3. setting path
+
+pre-assessment
+on python
+
+1.create a product class
+having following attributes
+code,name,supplier,price
+2. create a constructor to
+accept these attributes
+as arguments in the constructor
+3. write info method to print
+attributes accepted in the constructor
+
+step1 - create genai folder in system
+step 2 - create programs folder under
+genai
+
+
+https://github.com/
+
+def __init__(self,code,name)
+constructor
+
+
+4. create ProductManagement class
+having following methods
+addProduct(product)
+listProduct()
+searchbyname()
+
+add findbypricerange method
+
+pm.findbypricerange(1000,60000)
+
+get the usersinputs while adding a product
+
+
+
+
+
+
+
+
