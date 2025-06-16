@@ -1,0 +1,5 @@
+pip install tensorflow
+pip install cohere
+pip install diffusers transformers torch
+https://ai.google.dev/gemini-api/docs/quickstart
+pip install --upgrade google-generativeai
