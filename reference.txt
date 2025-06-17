@@ -3,3 +3,11 @@ pip install cohere
 pip install diffusers transformers torch
 https://ai.google.dev/gemini-api/docs/quickstart
 pip install --upgrade google-generativeai
+https://nnfs.io/bkr/
+https://nnfs.io/neural_network_animations
+https://medium.com/@nghihuynh_37300/understanding-loss-functions-for-classification-81c19ee72c2a
+https://playground.tensorflow.org/
+https://poloclub.github.io/transformer-explainer/
+
+https://www.datacamp.com/tutorial/loss-function-in-machine-learning
+https://www.geeksforgeeks.org/machine-learning/activation-functions-neural-networks/
