@@ -19,3 +19,74 @@ Generative AI
 Thank you for the clarification! You're asking for an interactive simulation or animated visualization that shows how an activation function like Sigmoid responds as input changes over time—essentially, a dynamic view, not a static graph.
 
 interactive simulation or animated visualization for sigmoid
+
+https://playground.tensorflow.org/
+
+Natural Language Processing (NLP)
+
+She went to the bank to withdraw money
+He sat by the bank of the river
+
+Context
+Symantics
+
+Step1 - Extract words from the sentence
+tokenization
+She - 100
+went - 101
+to - 103
+the - 104
+
+vector - embedding
+
+https://poloclub.github.io/transformer-explainer/
+transformer - google researcher
+Encoder 
+Decoder
+Attention is what you need
+
+genism - word to vector
+
+free llm models - cohere
+commercial llm models
+
+1.https://cohere.com/
+Sign Up
+
+2.Dashboard -> api key
+xRUtfWFXb4fH4tyfWGVNaCpjZJUGHJT6EoUfWoDM
+
+3. Huggingface
+https://huggingface.co/spaces/rishiraj/translate
+
+fdbaittranslator
+https://huggingface.co/spaces/raghuprasadks/fdbaittranslator
+
+https://huggingface.co/sarvamai/sarvam-translate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
